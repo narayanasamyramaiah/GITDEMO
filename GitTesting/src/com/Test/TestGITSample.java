@@ -6,4 +6,8 @@ public class TestGITSample {
 		System.out.println("changes by pratibha");
 	}
 	
+	public void display()
+	{
+		System.out.println("Git Implementation");
+	}
 }
